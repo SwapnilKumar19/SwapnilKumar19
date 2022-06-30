@@ -1,5 +1,5 @@
 ## <p align="center">Hi there, I'm Swapnil Kumar 👋 </p>
-### <p align="center">I'm a Pre-Final year Student in Mechanical Engineering at <a href="https://iitism.ac.in/" target="_blank" rel="noopener noreferrer"> IIT(ISM) Dhanbad </a></p>
+### <p align="center">I'm a Final year Student in Mechanical Engineering at <a href="https://iitism.ac.in/" target="_blank" rel="noopener noreferrer"> IIT(ISM) Dhanbad </a></p>
 ### <p align="center">An Android Developer who loves to code</p>
 
 ##
