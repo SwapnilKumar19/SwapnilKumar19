@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://www.cplusplus.com/" rel="nofollow"> <img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" alt="C++" width="45" height="45" style="max-width:100%;"> </a>
 <a href="https://kotlinlang.org/" rel="nofollow"> <img src="https://pics.freeicons.io/uploads/icons/png/18852341021548218200-512.png" alt="Kotlin" width="35" height="35" style="max-width:100%;"> </a>
-<a href="https://developer.android.com/studio" rel="nofollow"> <img src="https://image.flaticon.com/icons/png/512/226/226770.png" alt="Android" width="40" height="40" style="max-width:100%;"> </a>
+<a href="https://developer.android.com/studio" rel="nofollow"> <img src="https://img.icons8.com/color/344/android-os.png" alt="Android" width="40" height="40" style="max-width:100%;"> </a>
 <a href="https://firebase.google.com/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" style="max-width:100%;"> </a>
 <a href="https://www.python.org/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python" width="40" height="40" style="max-width:100%;"> </a>
 <a href="https://www.w3schools.com/html/" rel="nofollow"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" alt="Html5" width="40" height="40" style="max-width:100%;"> </a>
